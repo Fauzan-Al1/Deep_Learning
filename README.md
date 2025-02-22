@@ -1,3 +1,2 @@
 # Deep_Learning
-# Muhammad Fauzan Aldi
-# 1103210049
+# Muhammad Fauzan Aldi_1103210049
